@@ -46,3 +46,5 @@ Enjoy monitoring YouTube videos effortlessly with the YouTube Watcher Applicatio
 # Link for finding the right password to avoid authentication error
 https://www.getmailbird.com/gmail-app-password/
 Use the app-password generated in this and not your normal login password
+
+I have added some sample screenshots of the csv file and email I have receieved
