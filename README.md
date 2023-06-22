@@ -22,7 +22,12 @@ Time: The Time library allows for scheduling the execution of the script at regu
 
 CSV: The CSV library is used to store the view count and timestamp data in a structured format. This enables users to access historical data for analysis and tracking purposes
 
-# Libraries Used
+Flask: Flask is a web framework for Python that allows you to build web applications. It provides tools and libraries to handle routing, request handling, template rendering, and more, making it easier to develop web-based applications.
+
+Threading: The threading module is a built-in Python library that allows you to create and manage threads in your application. Threads are used to execute multiple tasks concurrently, allowing for improved performance and responsiveness in certain scenarios
+
+
+# Procedure
 To use the YouTube Watcher Application, follow these steps:
 
 Clone the repository from GitHub to your local machine.
